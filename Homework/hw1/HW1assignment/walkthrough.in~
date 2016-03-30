@@ -1,5 +1,5 @@
 echo '$ sh'; sh
-echo '$ source ~/dunnet'; source ~/b023040001.dunnet
+echo '$ source ~/dunnet' source ~/b023040001.dunnet
 echo '$ dunnet';dunnet
 echo "> e";e
 echo "> w";w
