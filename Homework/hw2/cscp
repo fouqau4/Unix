@@ -1,0 +1,8 @@
+#!/bin/tcsh
+
+@ i = 0
+while ( `expr $i \< 3` )
+	echo $i
+	@ i ++
+end
+

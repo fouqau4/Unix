@@ -1,0 +1,28 @@
+#!/bin/tcsh
+@ i = 0
+alias E echo
+while ( $i < 3 )
+	E
+	E
+	E  "UNIX System V, Release 2.2 (pokey)"
+	E
+	E -n "login: "
+	set N = "$<"
+	E -n "password: "
+	set P = "$<"
+	while ( "$*" == "$N $P" ) 
+		E		
+		E "Welcome to Unix"
+		E
+		E "Please clean up your directories.  The filesystem is getting full."
+		E "Our tcp/ip link to gamma is a little flaky, but seems to work."
+		E "The current version of ftp can only send files from your home"
+		E "directory, and deletes them after they are sent!  Be careful."
+		E
+		E "Note: Restricted bourne shell in use."
+		exit 0
+	end
+	E "login incorrect"
+	@ i ++
+end
+exit 2

@@ -1,0 +1,20 @@
+#!/bin/tcsh
+clear
+if ( x$3 == x-c ) then
+echo "   a  b  c  d  e  f  g  h\n"
+grep -o ' [A-Z_], [A-Z_], [A-Z_], [A-Z_], [A-Z_], [A-Z_], [A-Z_], [A-Z_],' memboard  | grep -on ' [A-Z_], [A-Z_], [A-Z_], [A-Z_], [A-Z_], [A-Z_], [A-Z_], [A-Z_],' | tr ",:" "  " > cheat_display
+seq 10 10 50 >> cheat_display
+sort -s -k1,1 cheat_display | sed 's/^[1-6][0]/--/' | tr -d '-'
+echo "\n-------------------------\n"
+endif
+tr "," "\n" < memboard | cat -n > display_pos
+grep -w -e "$1" -e "$2" display_pos  > chosen
+set R = `cut --complement -b1-8 < chosen | uniq -c | head -1 | tr -dc '0-9'`
+grep -vw -e "$1" -e "$2" display_pos | tr "A-Z" "?" >> chosen
+sort -g chosen | tr -d " 0-9" | tr "\n\t" ", " > current_board
+echo "   a  b  c  d  e  f  g  h\n"
+grep -o ' [A-Z?_], [A-Z?_], [A-Z?_], [A-Z?_], [A-Z?_], [A-Z?_], [A-Z?_], [A-Z?_],' current_board  | grep -on ' [A-Z?_], [A-Z?_], [A-Z?_], [A-Z?_], [A-Z?_], [A-Z?_], [A-Z?_], [A-Z?_],' | tr ",:" "  " > display
+seq 10 10 50 >> display
+sort -s -k1,1 display | sed 's/^[1-6][0]/--/' | tr -d '-' | grep --color -C6 -e  '[A-Z]' -e ' '
+echo
+exit $R
