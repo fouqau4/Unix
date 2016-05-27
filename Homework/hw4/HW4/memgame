@@ -1,0 +1,3 @@
+#!/usr/bin/tcsh
+echo ABCDEFGHIJKLMNOPQRSTUVWX | sed 's/[A-X]/\n&/g;P;' | tee memboard | tr A-Z a-z > lets; cat memboard >> lets
+
