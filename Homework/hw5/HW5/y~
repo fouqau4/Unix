@@ -1,0 +1,2800 @@
+line 2
+h@ is a palindrome: a man, a plan, a canal, panama!
+er@e
+
+line 9
+h@ is a palindrome: a man, a plan, a canal, panama!
+er@e
+
+line 10
+h@ is a palindrome: a man, a plan, a canal, panama!
+
+line 11
+h@ is a palindrome: a man, a plan, a canal, panama!
+er@e
+
+line 12 remove this :
+h@ is a palindrome: a man, a plan, a canal, panama!
+result is :
+h@ is a palindrome: a man, a plan, a canal, panama!
+
+line 17
+
+line 18
+h@ is a palindrome: a man, a plan, a canal, panama!
+
+line 19
+
+line 21
+h@ is a palindrome: a man, a plan, a canal, panama!
+
+line 22
+h is a palindrome: a man, a plan, a canal, panama!
+
+h is a palindrome: a man, a plan, a canal, panama!
+line 2
+here is @lindrome: a man, a plan, a canal, panama!
+a p@a
+
+line 9
+here is @lindrome: a man, a plan, a canal, panama!
+a p@a
+
+line 10
+here is @lindrome: a man, a plan, a canal, panama!
+
+line 11
+here is @lindrome: a man, a plan, a canal, panama!
+a p@a
+
+line 12 remove this :
+here is @lindrome: a man, a plan, a canal, panama!
+result is :
+here is @lindrome: a man, a plan, a canal, panama!
+
+line 17
+
+line 18
+here is @lindrome: a man, a plan, a canal, panama!
+
+line 19
+
+line 21
+here is @lindrome: a man, a plan, a canal, panama!
+
+line 22
+here is lindrome: a man, a plan, a canal, panama!
+
+here is lindrome: a man, a plan, a canal, panama!
+line 2
+here is a palindrome: @n, a plan, a canal, panama!
+a m@a
+
+line 9
+here is a palindrome: @n, a plan, a canal, panama!
+a m@a
+
+line 10
+here is a palindrome: @n, a plan, a canal, panama!
+
+line 11
+here is a palindrome: @n, a plan, a canal, panama!
+a m@a
+
+line 12 remove this :
+here is a palindrome: @n, a plan, a canal, panama!
+result is :
+here is a palindrome: @n, a plan, a canal, panama!
+
+line 17
+
+line 18
+here is a palindrome: @n, a plan, a canal, panama!
+
+line 19
+
+line 21
+here is a palindrome: @n, a plan, a canal, panama!
+
+line 22
+here is a palindrome: n, a plan, a canal, panama!
+
+here is a palindrome: n, a plan, a canal, panama!
+line 2
+here is a palindrome: a m@ plan, a canal, panama!
+an@, a
+
+line 9
+here is a palindrome: a m@ plan, a canal, panama!
+an@, a
+
+line 10
+here is a palindrome: a m@ plan, a canal, panama!
+
+line 11
+here is a palindrome: a m@ plan, a canal, panama!
+an@, a
+
+line 12 remove this :
+here is a palindrome: a m@ plan, a canal, panama!
+result is :
+here is a palindrome: a m@ plan, a canal, panama!
+
+line 17
+
+line 18
+here is a palindrome: a m@ plan, a canal, panama!
+
+line 19
+
+line 21
+here is a palindrome: a m@ plan, a canal, panama!
+
+line 22
+here is a palindrome: a m plan, a canal, panama!
+
+here is a palindrome: a m plan, a canal, panama!
+line 2
+here is a palindrome: a man, a pl@ canal, panama!
+an@, a
+
+line 9
+here is a palindrome: a man, a pl@ canal, panama!
+an@, a
+
+line 10
+here is a palindrome: a man, a pl@ canal, panama!
+
+line 11
+here is a palindrome: a man, a pl@ canal, panama!
+an@, a
+
+line 12 remove this :
+here is a palindrome: a man, a pl@ canal, panama!
+result is :
+here is a palindrome: a man, a pl@ canal, panama!
+
+line 17
+
+line 18
+here is a palindrome: a man, a pl@ canal, panama!
+
+line 19
+
+line 21
+here is a palindrome: a man, a pl@ canal, panama!
+
+line 22
+here is a palindrome: a man, a pl canal, panama!
+
+here is a palindrome: a man, a pl canal, panama!
+line 2
+here is a palindrome: a man, a plan, @nal, panama!
+a c@a
+
+line 9
+here is a palindrome: a man, a plan, @nal, panama!
+a c@a
+
+line 10
+here is a palindrome: a man, a plan, @nal, panama!
+
+line 11
+here is a palindrome: a man, a plan, @nal, panama!
+a c@a
+
+line 12 remove this :
+here is a palindrome: a man, a plan, @nal, panama!
+result is :
+here is a palindrome: a man, a plan, @nal, panama!
+
+line 17
+
+line 18
+here is a palindrome: a man, a plan, @nal, panama!
+
+line 19
+here is a palindrome: a man, a pla@al, panama!
+n, @n
+
+at line 5
+
+here is a palindrome: a man, a pla@al, panama!
+n, @n
+here is a palindrome: a man, a plan, @nal, panama!
+--------
+line 9
+here is a palindrome: a man, a pla@al, panama!
+n, @n
+here is a palindrome: a man, a plan, @nal, panama!
+
+line 10
+here is a palindrome: a man, a pla@al, panama!
+
+line 11
+here is a palindrome: a man, a pla@al, panama!
+n, @n
+here is a palindrome: a man, a plan, @nal, panama!
+
+line 12 remove this :
+here is a palindrome: a man, a pla@al, panama!
+result is :
+here is a palindrome: a man, a pla@al, panama!
+n, @n
+
+line 17
+here is a palindrome: a man, a plan, @nal, panama!
+
+line 18
+here is a palindrome: a man, a pla@al, panama!
+
+line 19
+here is a palindrome: a man, a pl@l, panama!
+a@a
+
+at line 5
+
+here is a palindrome: a man, a pl@l, panama!
+a@a
+here is a palindrome: a man, a plan, @nal, panama!
+--------
+line 9
+here is a palindrome: a man, a pl@l, panama!
+a@a
+here is a palindrome: a man, a plan, @nal, panama!
+
+line 10
+here is a palindrome: a man, a pl@l, panama!
+
+line 11
+here is a palindrome: a man, a pl@l, panama!
+a@a
+here is a palindrome: a man, a plan, @nal, panama!
+
+line 12 remove this :
+here is a palindrome: a man, a pl@l, panama!
+result is :
+here is a palindrome: a man, a pl@l, panama!
+a@a
+
+line 17
+here is a palindrome: a man, a pla@al, panama!
+
+line 18
+here is a palindrome: a man, a pl@l, panama!
+
+line 19
+here is a palindrome: a man, a p@, panama!
+l@l
+
+at line 5
+
+here is a palindrome: a man, a p@, panama!
+l@l
+here is a palindrome: a man, a pla@al, panama!
+--------
+line 9
+here is a palindrome: a man, a p@, panama!
+l@l
+here is a palindrome: a man, a pla@al, panama!
+
+line 10
+here is a palindrome: a man, a p@, panama!
+
+line 11
+here is a palindrome: a man, a p@, panama!
+l@l
+here is a palindrome: a man, a pla@al, panama!
+
+line 12 remove this :
+here is a palindrome: a man, a p@, panama!
+result is :
+here is a palindrome: a man, a p@, panama!
+l@l
+
+line 17
+here is a palindrome: a man, a pl@l, panama!
+
+line 18
+here is a palindrome: a man, a p@, panama!
+
+line 19
+here is a palindrome: a man, a @anama!
+p@, p
+
+at line 5
+
+here is a palindrome: a man, a @anama!
+p@, p
+here is a palindrome: a man, a pl@l, panama!
+--------
+line 9
+here is a palindrome: a man, a @anama!
+p@, p
+here is a palindrome: a man, a pl@l, panama!
+
+line 10
+here is a palindrome: a man, a @anama!
+
+line 11
+here is a palindrome: a man, a @anama!
+p@, p
+here is a palindrome: a man, a pl@l, panama!
+
+line 12 remove this :
+here is a palindrome: a man, a @anama!
+result is :
+here is a palindrome: a man, a @anama!
+p@, p
+
+line 17
+here is a palindrome: a man, a p@, panama!
+
+line 18
+here is a palindrome: a man, a @anama!
+
+line 19
+here is a palindrome: a man, @nama!
+a @a
+
+at line 5
+
+here is a palindrome: a man, @nama!
+a @a
+here is a palindrome: a man, a p@, panama!
+--------
+line 9
+here is a palindrome: a man, @nama!
+a @a
+here is a palindrome: a man, a p@, panama!
+
+line 10
+here is a palindrome: a man, @nama!
+
+line 11
+here is a palindrome: a man, @nama!
+a @a
+here is a palindrome: a man, a p@, panama!
+
+line 12 remove this :
+here is a palindrome: a man, @nama!
+result is :
+here is a palindrome: a man, @nama!
+a @a
+
+line 17
+here is a palindrome: a man, a @anama!
+
+line 18
+here is a palindrome: a man, @nama!
+
+line 19
+here is a palindrome: a ma@ama!
+n, @n
+
+at line 5
+
+here is a palindrome: a ma@ama!
+n, @n
+here is a palindrome: a man, a @anama!
+--------
+line 9
+here is a palindrome: a ma@ama!
+n, @n
+here is a palindrome: a man, a @anama!
+
+line 10
+here is a palindrome: a ma@ama!
+
+line 11
+here is a palindrome: a ma@ama!
+n, @n
+here is a palindrome: a man, a @anama!
+
+line 12 remove this :
+here is a palindrome: a ma@ama!
+result is :
+here is a palindrome: a ma@ama!
+n, @n
+
+line 17
+here is a palindrome: a man, @nama!
+
+line 18
+here is a palindrome: a ma@ama!
+
+line 19
+here is a palindrome: a m@ma!
+a@a
+
+at line 5
+
+here is a palindrome: a m@ma!
+a@a
+here is a palindrome: a man, @nama!
+--------
+line 9
+here is a palindrome: a m@ma!
+a@a
+here is a palindrome: a man, @nama!
+
+line 10
+here is a palindrome: a m@ma!
+
+line 11
+here is a palindrome: a m@ma!
+a@a
+here is a palindrome: a man, @nama!
+
+line 12 remove this :
+here is a palindrome: a m@ma!
+result is :
+here is a palindrome: a m@ma!
+a@a
+
+line 17
+here is a palindrome: a ma@ama!
+
+line 18
+here is a palindrome: a m@ma!
+
+line 19
+here is a palindrome: a @a!
+m@m
+
+at line 5
+
+here is a palindrome: a @a!
+m@m
+here is a palindrome: a ma@ama!
+--------
+line 9
+here is a palindrome: a @a!
+m@m
+here is a palindrome: a ma@ama!
+
+line 10
+here is a palindrome: a @a!
+
+line 11
+here is a palindrome: a @a!
+m@m
+here is a palindrome: a ma@ama!
+
+line 12 remove this :
+here is a palindrome: a @a!
+result is :
+here is a palindrome: a @a!
+m@m
+
+line 17
+here is a palindrome: a m@ma!
+
+line 18
+here is a palindrome: a @a!
+
+line 19
+here is a palindrome: @!
+a @a
+
+at line 5
+
+here is a palindrome: @!
+a @a
+here is a palindrome: a m@ma!
+--------
+line 9
+here is a palindrome: @!
+a @a
+here is a palindrome: a m@ma!
+
+line 10
+here is a palindrome: @!
+
+line 11
+here is a palindrome: @!
+a @a
+here is a palindrome: a m@ma!
+
+line 12 remove this :
+here is a palindrome: @!
+result is :
+here is a palindrome: @!
+a @a
+
+line 17
+here is a palindrome: a @a!
+
+line 18
+here is a palindrome: @!
+
+line 19
+
+at line 5
+
+here is a palindrome: @!
+here is a palindrome: a @a!
+--------
+line 9
+here is a palindrome: @!
+here is a palindrome: a @a!
+
+line 10
+here is a palindrome: @!
+
+line 11
+here is a palindrome: @!
+here is a palindrome: a @a!
+
+line 12 remove this :
+here is a palindrome: @!
+result is :
+here is a palindrome: @!
+
+line 17
+
+line 18
+here is a palindrome: @!
+
+line 19
+
+line 21
+here is a palindrome: @!
+
+line 22
+here is a palindrome: !
+
+here is a palindrome: !
+line 2
+here is a palindrome: a man, a plan, a c@l, panama!
+an@a
+
+line 9
+here is a palindrome: a man, a plan, a c@l, panama!
+an@a
+
+line 10
+here is a palindrome: a man, a plan, a c@l, panama!
+
+line 11
+here is a palindrome: a man, a plan, a c@l, panama!
+an@a
+
+line 12 remove this :
+here is a palindrome: a man, a plan, a c@l, panama!
+result is :
+here is a palindrome: a man, a plan, a c@l, panama!
+
+line 17
+
+line 18
+here is a palindrome: a man, a plan, a c@l, panama!
+
+line 19
+
+line 21
+here is a palindrome: a man, a plan, a c@l, panama!
+
+line 22
+here is a palindrome: a man, a plan, a cl, panama!
+
+here is a palindrome: a man, a plan, a cl, panama!
+line 2
+here is a palindrome: a man, a plan, a canal, p@ma!
+an@a
+
+line 9
+here is a palindrome: a man, a plan, a canal, p@ma!
+an@a
+
+line 10
+here is a palindrome: a man, a plan, a canal, p@ma!
+
+line 11
+here is a palindrome: a man, a plan, a canal, p@ma!
+an@a
+
+line 12 remove this :
+here is a palindrome: a man, a plan, a canal, p@ma!
+result is :
+here is a palindrome: a man, a plan, a canal, p@ma!
+
+line 17
+
+line 18
+here is a palindrome: a man, a plan, a canal, p@ma!
+
+line 19
+
+line 21
+here is a palindrome: a man, a plan, a canal, p@ma!
+
+line 22
+here is a palindrome: a man, a plan, a canal, pma!
+
+here is a palindrome: a man, a plan, a canal, pma!
+line 2
+here is a palindrome: a man, a plan, a canal, pan@!
+am@a
+
+line 9
+here is a palindrome: a man, a plan, a canal, pan@!
+am@a
+
+line 10
+here is a palindrome: a man, a plan, a canal, pan@!
+
+line 11
+here is a palindrome: a man, a plan, a canal, pan@!
+am@a
+
+line 12 remove this :
+here is a palindrome: a man, a plan, a canal, pan@!
+result is :
+here is a palindrome: a man, a plan, a canal, pan@!
+
+line 17
+
+line 18
+here is a palindrome: a man, a plan, a canal, pan@!
+
+line 19
+
+line 21
+here is a palindrome: a man, a plan, a canal, pan@!
+
+line 22
+here is a palindrome: a man, a plan, a canal, pan!
+
+here is a palindrome: a man, a plan, a canal, pan!
+line 2
+h@ is another one: racecar.
+er@e
+
+line 9
+h@ is another one: racecar.
+er@e
+
+line 10
+h@ is another one: racecar.
+
+line 11
+h@ is another one: racecar.
+er@e
+
+line 12 remove this :
+h@ is another one: racecar.
+result is :
+h@ is another one: racecar.
+
+line 17
+
+line 18
+h@ is another one: racecar.
+
+line 19
+
+line 21
+h@ is another one: racecar.
+
+line 22
+h is another one: racecar.
+
+h is another one: racecar.
+line 2
+here is another one: ra@ar.
+ce@c
+
+line 9
+here is another one: ra@ar.
+ce@c
+
+line 10
+here is another one: ra@ar.
+
+line 11
+here is another one: ra@ar.
+ce@c
+
+line 12 remove this :
+here is another one: ra@ar.
+result is :
+here is another one: ra@ar.
+
+line 17
+
+line 18
+here is another one: ra@ar.
+
+line 19
+here is another one: r@r.
+a@a
+
+at line 5
+
+here is another one: r@r.
+a@a
+here is another one: ra@ar.
+--------
+line 9
+here is another one: r@r.
+a@a
+here is another one: ra@ar.
+
+line 10
+here is another one: r@r.
+
+line 11
+here is another one: r@r.
+a@a
+here is another one: ra@ar.
+
+line 12 remove this :
+here is another one: r@r.
+result is :
+here is another one: r@r.
+a@a
+
+line 17
+here is another one: ra@ar.
+
+line 18
+here is another one: r@r.
+
+line 19
+here is another one: @.
+r@r
+
+at line 5
+
+here is another one: @.
+r@r
+here is another one: ra@ar.
+--------
+line 9
+here is another one: @.
+r@r
+here is another one: ra@ar.
+
+line 10
+here is another one: @.
+
+line 11
+here is another one: @.
+r@r
+here is another one: ra@ar.
+
+line 12 remove this :
+here is another one: @.
+result is :
+here is another one: @.
+r@r
+
+line 17
+here is another one: r@r.
+
+line 18
+here is another one: @.
+
+line 19
+
+at line 5
+
+here is another one: @.
+here is another one: r@r.
+--------
+line 9
+here is another one: @.
+here is another one: r@r.
+
+line 10
+here is another one: @.
+
+line 11
+here is another one: @.
+here is another one: r@r.
+
+line 12 remove this :
+here is another one: @.
+result is :
+here is another one: @.
+
+line 17
+
+line 18
+here is another one: @.
+
+line 19
+
+line 21
+here is another one: @.
+
+line 22
+here is another one: .
+
+here is another one: .
+line 2
+yet another: go hang @lami. i'm a lasagna hog.
+a s@a
+
+line 9
+yet another: go hang @lami. i'm a lasagna hog.
+a s@a
+
+line 10
+yet another: go hang @lami. i'm a lasagna hog.
+
+line 11
+yet another: go hang @lami. i'm a lasagna hog.
+a s@a
+
+line 12 remove this :
+yet another: go hang @lami. i'm a lasagna hog.
+result is :
+yet another: go hang @lami. i'm a lasagna hog.
+
+line 17
+
+line 18
+yet another: go hang @lami. i'm a lasagna hog.
+
+line 19
+
+line 21
+yet another: go hang @lami. i'm a lasagna hog.
+
+line 22
+yet another: go hang lami. i'm a lasagna hog.
+
+yet another: go hang lami. i'm a lasagna hog.
+line 2
+yet another: go hang a s@mi. i'm a lasagna hog.
+al@a
+
+line 9
+yet another: go hang a s@mi. i'm a lasagna hog.
+al@a
+
+line 10
+yet another: go hang a s@mi. i'm a lasagna hog.
+
+line 11
+yet another: go hang a s@mi. i'm a lasagna hog.
+al@a
+
+line 12 remove this :
+yet another: go hang a s@mi. i'm a lasagna hog.
+result is :
+yet another: go hang a s@mi. i'm a lasagna hog.
+
+line 17
+
+line 18
+yet another: go hang a s@mi. i'm a lasagna hog.
+
+line 19
+
+line 21
+yet another: go hang a s@mi. i'm a lasagna hog.
+
+line 22
+yet another: go hang a smi. i'm a lasagna hog.
+
+yet another: go hang a smi. i'm a lasagna hog.
+line 2
+yet another: go hang a salam@'m a lasagna hog.
+i@. i
+
+line 9
+yet another: go hang a salam@'m a lasagna hog.
+i@. i
+
+line 10
+yet another: go hang a salam@'m a lasagna hog.
+
+line 11
+yet another: go hang a salam@'m a lasagna hog.
+i@. i
+
+line 12 remove this :
+yet another: go hang a salam@'m a lasagna hog.
+result is :
+yet another: go hang a salam@'m a lasagna hog.
+
+line 17
+
+line 18
+yet another: go hang a salam@'m a lasagna hog.
+
+line 19
+yet another: go hang a sala@ a lasagna hog.
+m@'m
+
+at line 5
+
+yet another: go hang a sala@ a lasagna hog.
+m@'m
+yet another: go hang a salam@'m a lasagna hog.
+--------
+line 9
+yet another: go hang a sala@ a lasagna hog.
+m@'m
+yet another: go hang a salam@'m a lasagna hog.
+
+line 10
+yet another: go hang a sala@ a lasagna hog.
+
+line 11
+yet another: go hang a sala@ a lasagna hog.
+m@'m
+yet another: go hang a salam@'m a lasagna hog.
+
+line 12 remove this :
+yet another: go hang a sala@ a lasagna hog.
+result is :
+yet another: go hang a sala@ a lasagna hog.
+m@'m
+
+line 17
+yet another: go hang a salam@'m a lasagna hog.
+
+line 18
+yet another: go hang a sala@ a lasagna hog.
+
+line 19
+yet another: go hang a sal@ lasagna hog.
+a@ a
+
+at line 5
+
+yet another: go hang a sal@ lasagna hog.
+a@ a
+yet another: go hang a salam@'m a lasagna hog.
+--------
+line 9
+yet another: go hang a sal@ lasagna hog.
+a@ a
+yet another: go hang a salam@'m a lasagna hog.
+
+line 10
+yet another: go hang a sal@ lasagna hog.
+
+line 11
+yet another: go hang a sal@ lasagna hog.
+a@ a
+yet another: go hang a salam@'m a lasagna hog.
+
+line 12 remove this :
+yet another: go hang a sal@ lasagna hog.
+result is :
+yet another: go hang a sal@ lasagna hog.
+a@ a
+
+line 17
+yet another: go hang a sala@ a lasagna hog.
+
+line 18
+yet another: go hang a sal@ lasagna hog.
+
+line 19
+yet another: go hang a sa@asagna hog.
+l@ l
+
+at line 5
+
+yet another: go hang a sa@asagna hog.
+l@ l
+yet another: go hang a sala@ a lasagna hog.
+--------
+line 9
+yet another: go hang a sa@asagna hog.
+l@ l
+yet another: go hang a sala@ a lasagna hog.
+
+line 10
+yet another: go hang a sa@asagna hog.
+
+line 11
+yet another: go hang a sa@asagna hog.
+l@ l
+yet another: go hang a sala@ a lasagna hog.
+
+line 12 remove this :
+yet another: go hang a sa@asagna hog.
+result is :
+yet another: go hang a sa@asagna hog.
+l@ l
+
+line 17
+yet another: go hang a sal@ lasagna hog.
+
+line 18
+yet another: go hang a sa@asagna hog.
+
+line 19
+yet another: go hang a s@sagna hog.
+a@a
+
+at line 5
+
+yet another: go hang a s@sagna hog.
+a@a
+yet another: go hang a sal@ lasagna hog.
+--------
+line 9
+yet another: go hang a s@sagna hog.
+a@a
+yet another: go hang a sal@ lasagna hog.
+
+line 10
+yet another: go hang a s@sagna hog.
+
+line 11
+yet another: go hang a s@sagna hog.
+a@a
+yet another: go hang a sal@ lasagna hog.
+
+line 12 remove this :
+yet another: go hang a s@sagna hog.
+result is :
+yet another: go hang a s@sagna hog.
+a@a
+
+line 17
+yet another: go hang a sa@asagna hog.
+
+line 18
+yet another: go hang a s@sagna hog.
+
+line 19
+yet another: go hang a @agna hog.
+s@s
+
+at line 5
+
+yet another: go hang a @agna hog.
+s@s
+yet another: go hang a sa@asagna hog.
+--------
+line 9
+yet another: go hang a @agna hog.
+s@s
+yet another: go hang a sa@asagna hog.
+
+line 10
+yet another: go hang a @agna hog.
+
+line 11
+yet another: go hang a @agna hog.
+s@s
+yet another: go hang a sa@asagna hog.
+
+line 12 remove this :
+yet another: go hang a @agna hog.
+result is :
+yet another: go hang a @agna hog.
+s@s
+
+line 17
+yet another: go hang a s@sagna hog.
+
+line 18
+yet another: go hang a @agna hog.
+
+line 19
+yet another: go hang @gna hog.
+a @a
+
+at line 5
+
+yet another: go hang @gna hog.
+a @a
+yet another: go hang a s@sagna hog.
+--------
+line 9
+yet another: go hang @gna hog.
+a @a
+yet another: go hang a s@sagna hog.
+
+line 10
+yet another: go hang @gna hog.
+
+line 11
+yet another: go hang @gna hog.
+a @a
+yet another: go hang a s@sagna hog.
+
+line 12 remove this :
+yet another: go hang @gna hog.
+result is :
+yet another: go hang @gna hog.
+a @a
+
+line 17
+yet another: go hang a @agna hog.
+
+line 18
+yet another: go hang @gna hog.
+
+line 19
+yet another: go han@na hog.
+g @g
+
+at line 5
+
+yet another: go han@na hog.
+g @g
+yet another: go hang a @agna hog.
+--------
+line 9
+yet another: go han@na hog.
+g @g
+yet another: go hang a @agna hog.
+
+line 10
+yet another: go han@na hog.
+
+line 11
+yet another: go han@na hog.
+g @g
+yet another: go hang a @agna hog.
+
+line 12 remove this :
+yet another: go han@na hog.
+result is :
+yet another: go han@na hog.
+g @g
+
+line 17
+yet another: go hang @gna hog.
+
+line 18
+yet another: go han@na hog.
+
+line 19
+yet another: go ha@a hog.
+n@n
+
+at line 5
+
+yet another: go ha@a hog.
+n@n
+yet another: go hang @gna hog.
+--------
+line 9
+yet another: go ha@a hog.
+n@n
+yet another: go hang @gna hog.
+
+line 10
+yet another: go ha@a hog.
+
+line 11
+yet another: go ha@a hog.
+n@n
+yet another: go hang @gna hog.
+
+line 12 remove this :
+yet another: go ha@a hog.
+result is :
+yet another: go ha@a hog.
+n@n
+
+line 17
+yet another: go han@na hog.
+
+line 18
+yet another: go ha@a hog.
+
+line 19
+yet another: go h@ hog.
+a@a
+
+at line 5
+
+yet another: go h@ hog.
+a@a
+yet another: go han@na hog.
+--------
+line 9
+yet another: go h@ hog.
+a@a
+yet another: go han@na hog.
+
+line 10
+yet another: go h@ hog.
+
+line 11
+yet another: go h@ hog.
+a@a
+yet another: go han@na hog.
+
+line 12 remove this :
+yet another: go h@ hog.
+result is :
+yet another: go h@ hog.
+a@a
+
+line 17
+yet another: go ha@a hog.
+
+line 18
+yet another: go h@ hog.
+
+line 19
+yet another: go @og.
+h@ h
+
+at line 5
+
+yet another: go @og.
+h@ h
+yet another: go ha@a hog.
+--------
+line 9
+yet another: go @og.
+h@ h
+yet another: go ha@a hog.
+
+line 10
+yet another: go @og.
+
+line 11
+yet another: go @og.
+h@ h
+yet another: go ha@a hog.
+
+line 12 remove this :
+yet another: go @og.
+result is :
+yet another: go @og.
+h@ h
+
+line 17
+yet another: go h@ hog.
+
+line 18
+yet another: go @og.
+
+line 19
+yet another: g@g.
+o @o
+
+at line 5
+
+yet another: g@g.
+o @o
+yet another: go h@ hog.
+--------
+line 9
+yet another: g@g.
+o @o
+yet another: go h@ hog.
+
+line 10
+yet another: g@g.
+
+line 11
+yet another: g@g.
+o @o
+yet another: go h@ hog.
+
+line 12 remove this :
+yet another: g@g.
+result is :
+yet another: g@g.
+o @o
+
+line 17
+yet another: go @og.
+
+line 18
+yet another: g@g.
+
+line 19
+yet another: @.
+g@g
+
+at line 5
+
+yet another: @.
+g@g
+yet another: go @og.
+--------
+line 9
+yet another: @.
+g@g
+yet another: go @og.
+
+line 10
+yet another: @.
+
+line 11
+yet another: @.
+g@g
+yet another: go @og.
+
+line 12 remove this :
+yet another: @.
+result is :
+yet another: @.
+g@g
+
+line 17
+yet another: g@g.
+
+line 18
+yet another: @.
+
+line 19
+
+at line 5
+
+yet another: @.
+yet another: g@g.
+--------
+line 9
+yet another: @.
+yet another: g@g.
+
+line 10
+yet another: @.
+
+line 11
+yet another: @.
+yet another: g@g.
+
+line 12 remove this :
+yet another: @.
+result is :
+yet another: @.
+
+line 17
+
+line 18
+yet another: @.
+
+line 19
+
+line 21
+yet another: @.
+
+line 22
+yet another: .
+
+yet another: .
+line 2
+yet another: go hang a salam@'m a lasagna hog.
+i.@ i
+
+line 9
+yet another: go hang a salam@'m a lasagna hog.
+i.@ i
+
+line 10
+yet another: go hang a salam@'m a lasagna hog.
+
+line 11
+yet another: go hang a salam@'m a lasagna hog.
+i.@ i
+
+line 12 remove this :
+yet another: go hang a salam@'m a lasagna hog.
+result is :
+yet another: go hang a salam@'m a lasagna hog.
+
+line 17
+
+line 18
+yet another: go hang a salam@'m a lasagna hog.
+
+line 19
+yet another: go hang a sala@ a lasagna hog.
+m@'m
+
+at line 5
+
+yet another: go hang a sala@ a lasagna hog.
+m@'m
+yet another: go hang a salam@'m a lasagna hog.
+--------
+line 9
+yet another: go hang a sala@ a lasagna hog.
+m@'m
+yet another: go hang a salam@'m a lasagna hog.
+
+line 10
+yet another: go hang a sala@ a lasagna hog.
+
+line 11
+yet another: go hang a sala@ a lasagna hog.
+m@'m
+yet another: go hang a salam@'m a lasagna hog.
+
+line 12 remove this :
+yet another: go hang a sala@ a lasagna hog.
+result is :
+yet another: go hang a sala@ a lasagna hog.
+m@'m
+
+line 17
+yet another: go hang a salam@'m a lasagna hog.
+
+line 18
+yet another: go hang a sala@ a lasagna hog.
+
+line 19
+yet another: go hang a sal@ lasagna hog.
+a@ a
+
+at line 5
+
+yet another: go hang a sal@ lasagna hog.
+a@ a
+yet another: go hang a salam@'m a lasagna hog.
+--------
+line 9
+yet another: go hang a sal@ lasagna hog.
+a@ a
+yet another: go hang a salam@'m a lasagna hog.
+
+line 10
+yet another: go hang a sal@ lasagna hog.
+
+line 11
+yet another: go hang a sal@ lasagna hog.
+a@ a
+yet another: go hang a salam@'m a lasagna hog.
+
+line 12 remove this :
+yet another: go hang a sal@ lasagna hog.
+result is :
+yet another: go hang a sal@ lasagna hog.
+a@ a
+
+line 17
+yet another: go hang a sala@ a lasagna hog.
+
+line 18
+yet another: go hang a sal@ lasagna hog.
+
+line 19
+yet another: go hang a sa@asagna hog.
+l@ l
+
+at line 5
+
+yet another: go hang a sa@asagna hog.
+l@ l
+yet another: go hang a sala@ a lasagna hog.
+--------
+line 9
+yet another: go hang a sa@asagna hog.
+l@ l
+yet another: go hang a sala@ a lasagna hog.
+
+line 10
+yet another: go hang a sa@asagna hog.
+
+line 11
+yet another: go hang a sa@asagna hog.
+l@ l
+yet another: go hang a sala@ a lasagna hog.
+
+line 12 remove this :
+yet another: go hang a sa@asagna hog.
+result is :
+yet another: go hang a sa@asagna hog.
+l@ l
+
+line 17
+yet another: go hang a sal@ lasagna hog.
+
+line 18
+yet another: go hang a sa@asagna hog.
+
+line 19
+yet another: go hang a s@sagna hog.
+a@a
+
+at line 5
+
+yet another: go hang a s@sagna hog.
+a@a
+yet another: go hang a sal@ lasagna hog.
+--------
+line 9
+yet another: go hang a s@sagna hog.
+a@a
+yet another: go hang a sal@ lasagna hog.
+
+line 10
+yet another: go hang a s@sagna hog.
+
+line 11
+yet another: go hang a s@sagna hog.
+a@a
+yet another: go hang a sal@ lasagna hog.
+
+line 12 remove this :
+yet another: go hang a s@sagna hog.
+result is :
+yet another: go hang a s@sagna hog.
+a@a
+
+line 17
+yet another: go hang a sa@asagna hog.
+
+line 18
+yet another: go hang a s@sagna hog.
+
+line 19
+yet another: go hang a @agna hog.
+s@s
+
+at line 5
+
+yet another: go hang a @agna hog.
+s@s
+yet another: go hang a sa@asagna hog.
+--------
+line 9
+yet another: go hang a @agna hog.
+s@s
+yet another: go hang a sa@asagna hog.
+
+line 10
+yet another: go hang a @agna hog.
+
+line 11
+yet another: go hang a @agna hog.
+s@s
+yet another: go hang a sa@asagna hog.
+
+line 12 remove this :
+yet another: go hang a @agna hog.
+result is :
+yet another: go hang a @agna hog.
+s@s
+
+line 17
+yet another: go hang a s@sagna hog.
+
+line 18
+yet another: go hang a @agna hog.
+
+line 19
+yet another: go hang @gna hog.
+a @a
+
+at line 5
+
+yet another: go hang @gna hog.
+a @a
+yet another: go hang a s@sagna hog.
+--------
+line 9
+yet another: go hang @gna hog.
+a @a
+yet another: go hang a s@sagna hog.
+
+line 10
+yet another: go hang @gna hog.
+
+line 11
+yet another: go hang @gna hog.
+a @a
+yet another: go hang a s@sagna hog.
+
+line 12 remove this :
+yet another: go hang @gna hog.
+result is :
+yet another: go hang @gna hog.
+a @a
+
+line 17
+yet another: go hang a @agna hog.
+
+line 18
+yet another: go hang @gna hog.
+
+line 19
+yet another: go han@na hog.
+g @g
+
+at line 5
+
+yet another: go han@na hog.
+g @g
+yet another: go hang a @agna hog.
+--------
+line 9
+yet another: go han@na hog.
+g @g
+yet another: go hang a @agna hog.
+
+line 10
+yet another: go han@na hog.
+
+line 11
+yet another: go han@na hog.
+g @g
+yet another: go hang a @agna hog.
+
+line 12 remove this :
+yet another: go han@na hog.
+result is :
+yet another: go han@na hog.
+g @g
+
+line 17
+yet another: go hang @gna hog.
+
+line 18
+yet another: go han@na hog.
+
+line 19
+yet another: go ha@a hog.
+n@n
+
+at line 5
+
+yet another: go ha@a hog.
+n@n
+yet another: go hang @gna hog.
+--------
+line 9
+yet another: go ha@a hog.
+n@n
+yet another: go hang @gna hog.
+
+line 10
+yet another: go ha@a hog.
+
+line 11
+yet another: go ha@a hog.
+n@n
+yet another: go hang @gna hog.
+
+line 12 remove this :
+yet another: go ha@a hog.
+result is :
+yet another: go ha@a hog.
+n@n
+
+line 17
+yet another: go han@na hog.
+
+line 18
+yet another: go ha@a hog.
+
+line 19
+yet another: go h@ hog.
+a@a
+
+at line 5
+
+yet another: go h@ hog.
+a@a
+yet another: go han@na hog.
+--------
+line 9
+yet another: go h@ hog.
+a@a
+yet another: go han@na hog.
+
+line 10
+yet another: go h@ hog.
+
+line 11
+yet another: go h@ hog.
+a@a
+yet another: go han@na hog.
+
+line 12 remove this :
+yet another: go h@ hog.
+result is :
+yet another: go h@ hog.
+a@a
+
+line 17
+yet another: go ha@a hog.
+
+line 18
+yet another: go h@ hog.
+
+line 19
+yet another: go @og.
+h@ h
+
+at line 5
+
+yet another: go @og.
+h@ h
+yet another: go ha@a hog.
+--------
+line 9
+yet another: go @og.
+h@ h
+yet another: go ha@a hog.
+
+line 10
+yet another: go @og.
+
+line 11
+yet another: go @og.
+h@ h
+yet another: go ha@a hog.
+
+line 12 remove this :
+yet another: go @og.
+result is :
+yet another: go @og.
+h@ h
+
+line 17
+yet another: go h@ hog.
+
+line 18
+yet another: go @og.
+
+line 19
+yet another: g@g.
+o @o
+
+at line 5
+
+yet another: g@g.
+o @o
+yet another: go h@ hog.
+--------
+line 9
+yet another: g@g.
+o @o
+yet another: go h@ hog.
+
+line 10
+yet another: g@g.
+
+line 11
+yet another: g@g.
+o @o
+yet another: go h@ hog.
+
+line 12 remove this :
+yet another: g@g.
+result is :
+yet another: g@g.
+o @o
+
+line 17
+yet another: go @og.
+
+line 18
+yet another: g@g.
+
+line 19
+yet another: @.
+g@g
+
+at line 5
+
+yet another: @.
+g@g
+yet another: go @og.
+--------
+line 9
+yet another: @.
+g@g
+yet another: go @og.
+
+line 10
+yet another: @.
+
+line 11
+yet another: @.
+g@g
+yet another: go @og.
+
+line 12 remove this :
+yet another: @.
+result is :
+yet another: @.
+g@g
+
+line 17
+yet another: g@g.
+
+line 18
+yet another: @.
+
+line 19
+
+at line 5
+
+yet another: @.
+yet another: g@g.
+--------
+line 9
+yet another: @.
+yet another: g@g.
+
+line 10
+yet another: @.
+
+line 11
+yet another: @.
+yet another: g@g.
+
+line 12 remove this :
+yet another: @.
+result is :
+yet another: @.
+
+line 17
+
+line 18
+yet another: @.
+
+line 19
+
+line 21
+yet another: @.
+
+line 22
+yet another: .
+
+yet another: .
+line 2
+yet another: go hang a salam@'m a lasagna hog.
+i. @i
+
+line 9
+yet another: go hang a salam@'m a lasagna hog.
+i. @i
+
+line 10
+yet another: go hang a salam@'m a lasagna hog.
+
+line 11
+yet another: go hang a salam@'m a lasagna hog.
+i. @i
+
+line 12 remove this :
+yet another: go hang a salam@'m a lasagna hog.
+result is :
+yet another: go hang a salam@'m a lasagna hog.
+
+line 17
+
+line 18
+yet another: go hang a salam@'m a lasagna hog.
+
+line 19
+yet another: go hang a sala@ a lasagna hog.
+m@'m
+
+at line 5
+
+yet another: go hang a sala@ a lasagna hog.
+m@'m
+yet another: go hang a salam@'m a lasagna hog.
+--------
+line 9
+yet another: go hang a sala@ a lasagna hog.
+m@'m
+yet another: go hang a salam@'m a lasagna hog.
+
+line 10
+yet another: go hang a sala@ a lasagna hog.
+
+line 11
+yet another: go hang a sala@ a lasagna hog.
+m@'m
+yet another: go hang a salam@'m a lasagna hog.
+
+line 12 remove this :
+yet another: go hang a sala@ a lasagna hog.
+result is :
+yet another: go hang a sala@ a lasagna hog.
+m@'m
+
+line 17
+yet another: go hang a salam@'m a lasagna hog.
+
+line 18
+yet another: go hang a sala@ a lasagna hog.
+
+line 19
+yet another: go hang a sal@ lasagna hog.
+a@ a
+
+at line 5
+
+yet another: go hang a sal@ lasagna hog.
+a@ a
+yet another: go hang a salam@'m a lasagna hog.
+--------
+line 9
+yet another: go hang a sal@ lasagna hog.
+a@ a
+yet another: go hang a salam@'m a lasagna hog.
+
+line 10
+yet another: go hang a sal@ lasagna hog.
+
+line 11
+yet another: go hang a sal@ lasagna hog.
+a@ a
+yet another: go hang a salam@'m a lasagna hog.
+
+line 12 remove this :
+yet another: go hang a sal@ lasagna hog.
+result is :
+yet another: go hang a sal@ lasagna hog.
+a@ a
+
+line 17
+yet another: go hang a sala@ a lasagna hog.
+
+line 18
+yet another: go hang a sal@ lasagna hog.
+
+line 19
+yet another: go hang a sa@asagna hog.
+l@ l
+
+at line 5
+
+yet another: go hang a sa@asagna hog.
+l@ l
+yet another: go hang a sala@ a lasagna hog.
+--------
+line 9
+yet another: go hang a sa@asagna hog.
+l@ l
+yet another: go hang a sala@ a lasagna hog.
+
+line 10
+yet another: go hang a sa@asagna hog.
+
+line 11
+yet another: go hang a sa@asagna hog.
+l@ l
+yet another: go hang a sala@ a lasagna hog.
+
+line 12 remove this :
+yet another: go hang a sa@asagna hog.
+result is :
+yet another: go hang a sa@asagna hog.
+l@ l
+
+line 17
+yet another: go hang a sal@ lasagna hog.
+
+line 18
+yet another: go hang a sa@asagna hog.
+
+line 19
+yet another: go hang a s@sagna hog.
+a@a
+
+at line 5
+
+yet another: go hang a s@sagna hog.
+a@a
+yet another: go hang a sal@ lasagna hog.
+--------
+line 9
+yet another: go hang a s@sagna hog.
+a@a
+yet another: go hang a sal@ lasagna hog.
+
+line 10
+yet another: go hang a s@sagna hog.
+
+line 11
+yet another: go hang a s@sagna hog.
+a@a
+yet another: go hang a sal@ lasagna hog.
+
+line 12 remove this :
+yet another: go hang a s@sagna hog.
+result is :
+yet another: go hang a s@sagna hog.
+a@a
+
+line 17
+yet another: go hang a sa@asagna hog.
+
+line 18
+yet another: go hang a s@sagna hog.
+
+line 19
+yet another: go hang a @agna hog.
+s@s
+
+at line 5
+
+yet another: go hang a @agna hog.
+s@s
+yet another: go hang a sa@asagna hog.
+--------
+line 9
+yet another: go hang a @agna hog.
+s@s
+yet another: go hang a sa@asagna hog.
+
+line 10
+yet another: go hang a @agna hog.
+
+line 11
+yet another: go hang a @agna hog.
+s@s
+yet another: go hang a sa@asagna hog.
+
+line 12 remove this :
+yet another: go hang a @agna hog.
+result is :
+yet another: go hang a @agna hog.
+s@s
+
+line 17
+yet another: go hang a s@sagna hog.
+
+line 18
+yet another: go hang a @agna hog.
+
+line 19
+yet another: go hang @gna hog.
+a @a
+
+at line 5
+
+yet another: go hang @gna hog.
+a @a
+yet another: go hang a s@sagna hog.
+--------
+line 9
+yet another: go hang @gna hog.
+a @a
+yet another: go hang a s@sagna hog.
+
+line 10
+yet another: go hang @gna hog.
+
+line 11
+yet another: go hang @gna hog.
+a @a
+yet another: go hang a s@sagna hog.
+
+line 12 remove this :
+yet another: go hang @gna hog.
+result is :
+yet another: go hang @gna hog.
+a @a
+
+line 17
+yet another: go hang a @agna hog.
+
+line 18
+yet another: go hang @gna hog.
+
+line 19
+yet another: go han@na hog.
+g @g
+
+at line 5
+
+yet another: go han@na hog.
+g @g
+yet another: go hang a @agna hog.
+--------
+line 9
+yet another: go han@na hog.
+g @g
+yet another: go hang a @agna hog.
+
+line 10
+yet another: go han@na hog.
+
+line 11
+yet another: go han@na hog.
+g @g
+yet another: go hang a @agna hog.
+
+line 12 remove this :
+yet another: go han@na hog.
+result is :
+yet another: go han@na hog.
+g @g
+
+line 17
+yet another: go hang @gna hog.
+
+line 18
+yet another: go han@na hog.
+
+line 19
+yet another: go ha@a hog.
+n@n
+
+at line 5
+
+yet another: go ha@a hog.
+n@n
+yet another: go hang @gna hog.
+--------
+line 9
+yet another: go ha@a hog.
+n@n
+yet another: go hang @gna hog.
+
+line 10
+yet another: go ha@a hog.
+
+line 11
+yet another: go ha@a hog.
+n@n
+yet another: go hang @gna hog.
+
+line 12 remove this :
+yet another: go ha@a hog.
+result is :
+yet another: go ha@a hog.
+n@n
+
+line 17
+yet another: go han@na hog.
+
+line 18
+yet another: go ha@a hog.
+
+line 19
+yet another: go h@ hog.
+a@a
+
+at line 5
+
+yet another: go h@ hog.
+a@a
+yet another: go han@na hog.
+--------
+line 9
+yet another: go h@ hog.
+a@a
+yet another: go han@na hog.
+
+line 10
+yet another: go h@ hog.
+
+line 11
+yet another: go h@ hog.
+a@a
+yet another: go han@na hog.
+
+line 12 remove this :
+yet another: go h@ hog.
+result is :
+yet another: go h@ hog.
+a@a
+
+line 17
+yet another: go ha@a hog.
+
+line 18
+yet another: go h@ hog.
+
+line 19
+yet another: go @og.
+h@ h
+
+at line 5
+
+yet another: go @og.
+h@ h
+yet another: go ha@a hog.
+--------
+line 9
+yet another: go @og.
+h@ h
+yet another: go ha@a hog.
+
+line 10
+yet another: go @og.
+
+line 11
+yet another: go @og.
+h@ h
+yet another: go ha@a hog.
+
+line 12 remove this :
+yet another: go @og.
+result is :
+yet another: go @og.
+h@ h
+
+line 17
+yet another: go h@ hog.
+
+line 18
+yet another: go @og.
+
+line 19
+yet another: g@g.
+o @o
+
+at line 5
+
+yet another: g@g.
+o @o
+yet another: go h@ hog.
+--------
+line 9
+yet another: g@g.
+o @o
+yet another: go h@ hog.
+
+line 10
+yet another: g@g.
+
+line 11
+yet another: g@g.
+o @o
+yet another: go h@ hog.
+
+line 12 remove this :
+yet another: g@g.
+result is :
+yet another: g@g.
+o @o
+
+line 17
+yet another: go @og.
+
+line 18
+yet another: g@g.
+
+line 19
+yet another: @.
+g@g
+
+at line 5
+
+yet another: @.
+g@g
+yet another: go @og.
+--------
+line 9
+yet another: @.
+g@g
+yet another: go @og.
+
+line 10
+yet another: @.
+
+line 11
+yet another: @.
+g@g
+yet another: go @og.
+
+line 12 remove this :
+yet another: @.
+result is :
+yet another: @.
+g@g
+
+line 17
+yet another: g@g.
+
+line 18
+yet another: @.
+
+line 19
+
+at line 5
+
+yet another: @.
+yet another: g@g.
+--------
+line 9
+yet another: @.
+yet another: g@g.
+
+line 10
+yet another: @.
+
+line 11
+yet another: @.
+yet another: g@g.
+
+line 12 remove this :
+yet another: @.
+result is :
+yet another: @.
+
+line 17
+
+line 18
+yet another: @.
+
+line 19
+
+line 21
+yet another: @.
+
+line 22
+yet another: .
+
+yet another: .
+line 2
+yet another: go hang a salami. i'm @sagna hog.
+a l@a
+
+line 9
+yet another: go hang a salami. i'm @sagna hog.
+a l@a
+
+line 10
+yet another: go hang a salami. i'm @sagna hog.
+
+line 11
+yet another: go hang a salami. i'm @sagna hog.
+a l@a
+
+line 12 remove this :
+yet another: go hang a salami. i'm @sagna hog.
+result is :
+yet another: go hang a salami. i'm @sagna hog.
+
+line 17
+
+line 18
+yet another: go hang a salami. i'm @sagna hog.
+
+line 19
+
+line 21
+yet another: go hang a salami. i'm @sagna hog.
+
+line 22
+yet another: go hang a salami. i'm sagna hog.
+
+yet another: go hang a salami. i'm sagna hog.
+line 2
+yet another: go hang a salami. i'm a l@gna hog.
+as@a
+
+line 9
+yet another: go hang a salami. i'm a l@gna hog.
+as@a
+
+line 10
+yet another: go hang a salami. i'm a l@gna hog.
+
+line 11
+yet another: go hang a salami. i'm a l@gna hog.
+as@a
+
+line 12 remove this :
+yet another: go hang a salami. i'm a l@gna hog.
+result is :
+yet another: go hang a salami. i'm a l@gna hog.
+
+line 17
+
+line 18
+yet another: go hang a salami. i'm a l@gna hog.
+
+line 19
+
+line 21
+yet another: go hang a salami. i'm a l@gna hog.
+
+line 22
+yet another: go hang a salami. i'm a lgna hog.
+
+yet another: go hang a salami. i'm a lgna hog.
+line 2
+h@ is a broken one: go hang a salami. i am a lasagna hog.
+er@e
+
+line 9
+h@ is a broken one: go hang a salami. i am a lasagna hog.
+er@e
+
+line 10
+h@ is a broken one: go hang a salami. i am a lasagna hog.
+
+line 11
+h@ is a broken one: go hang a salami. i am a lasagna hog.
+er@e
+
+line 12 remove this :
+h@ is a broken one: go hang a salami. i am a lasagna hog.
+result is :
+h@ is a broken one: go hang a salami. i am a lasagna hog.
+
+line 17
+
+line 18
+h@ is a broken one: go hang a salami. i am a lasagna hog.
+
+line 19
+
+line 21
+h@ is a broken one: go hang a salami. i am a lasagna hog.
+
+line 22
+h is a broken one: go hang a salami. i am a lasagna hog.
+
+h is a broken one: go hang a salami. i am a lasagna hog.
+line 2
+here is a broke@e: go hang a salami. i am a lasagna hog.
+n o@n
+
+line 9
+here is a broke@e: go hang a salami. i am a lasagna hog.
+n o@n
+
+line 10
+here is a broke@e: go hang a salami. i am a lasagna hog.
+
+line 11
+here is a broke@e: go hang a salami. i am a lasagna hog.
+n o@n
+
+line 12 remove this :
+here is a broke@e: go hang a salami. i am a lasagna hog.
+result is :
+here is a broke@e: go hang a salami. i am a lasagna hog.
+
+line 17
+
+line 18
+here is a broke@e: go hang a salami. i am a lasagna hog.
+
+line 19
+here is a brok@: go hang a salami. i am a lasagna hog.
+e@e
+
+at line 5
+
+here is a brok@: go hang a salami. i am a lasagna hog.
+e@e
+here is a broke@e: go hang a salami. i am a lasagna hog.
+--------
+line 9
+here is a brok@: go hang a salami. i am a lasagna hog.
+e@e
+here is a broke@e: go hang a salami. i am a lasagna hog.
+
+line 10
+here is a brok@: go hang a salami. i am a lasagna hog.
+
+line 11
+here is a brok@: go hang a salami. i am a lasagna hog.
+e@e
+here is a broke@e: go hang a salami. i am a lasagna hog.
+
+line 12 remove this :
+here is a brok@: go hang a salami. i am a lasagna hog.
+result is :
+here is a brok@: go hang a salami. i am a lasagna hog.
+e@e
+
+line 17
+here is a broke@e: go hang a salami. i am a lasagna hog.
+
+line 18
+here is a brok@: go hang a salami. i am a lasagna hog.
+
+line 19
+
+at line 5
+
+here is a brok@: go hang a salami. i am a lasagna hog.
+here is a broke@e: go hang a salami. i am a lasagna hog.
+--------
+line 9
+here is a brok@: go hang a salami. i am a lasagna hog.
+here is a broke@e: go hang a salami. i am a lasagna hog.
+
+line 10
+here is a brok@: go hang a salami. i am a lasagna hog.
+
+line 11
+here is a brok@: go hang a salami. i am a lasagna hog.
+here is a broke@e: go hang a salami. i am a lasagna hog.
+
+line 12 remove this :
+here is a brok@: go hang a salami. i am a lasagna hog.
+result is :
+here is a brok@: go hang a salami. i am a lasagna hog.
+
+line 17
+
+line 18
+here is a brok@: go hang a salami. i am a lasagna hog.
+
+line 19
+
+line 21
+here is a brok@: go hang a salami. i am a lasagna hog.
+
+line 22
+here is a brok: go hang a salami. i am a lasagna hog.
+
+here is a brok: go hang a salami. i am a lasagna hog.
+line 2
+here is a broken one: go hang @lami. i am a lasagna hog.
+a s@a
+
+line 9
+here is a broken one: go hang @lami. i am a lasagna hog.
+a s@a
+
+line 10
+here is a broken one: go hang @lami. i am a lasagna hog.
+
+line 11
+here is a broken one: go hang @lami. i am a lasagna hog.
+a s@a
+
+line 12 remove this :
+here is a broken one: go hang @lami. i am a lasagna hog.
+result is :
+here is a broken one: go hang @lami. i am a lasagna hog.
+
+line 17
+
+line 18
+here is a broken one: go hang @lami. i am a lasagna hog.
+
+line 19
+
+line 21
+here is a broken one: go hang @lami. i am a lasagna hog.
+
+line 22
+here is a broken one: go hang lami. i am a lasagna hog.
+
+here is a broken one: go hang lami. i am a lasagna hog.
+line 2
+here is a broken one: go hang a s@mi. i am a lasagna hog.
+al@a
+
+line 9
+here is a broken one: go hang a s@mi. i am a lasagna hog.
+al@a
+
+line 10
+here is a broken one: go hang a s@mi. i am a lasagna hog.
+
+line 11
+here is a broken one: go hang a s@mi. i am a lasagna hog.
+al@a
+
+line 12 remove this :
+here is a broken one: go hang a s@mi. i am a lasagna hog.
+result is :
+here is a broken one: go hang a s@mi. i am a lasagna hog.
+
+line 17
+
+line 18
+here is a broken one: go hang a s@mi. i am a lasagna hog.
+
+line 19
+
+line 21
+here is a broken one: go hang a s@mi. i am a lasagna hog.
+
+line 22
+here is a broken one: go hang a smi. i am a lasagna hog.
+
+here is a broken one: go hang a smi. i am a lasagna hog.
+line 2
+here is a broken one: go hang a salam@ am a lasagna hog.
+i@. i
+
+line 9
+here is a broken one: go hang a salam@ am a lasagna hog.
+i@. i
+
+line 10
+here is a broken one: go hang a salam@ am a lasagna hog.
+
+line 11
+here is a broken one: go hang a salam@ am a lasagna hog.
+i@. i
+
+line 12 remove this :
+here is a broken one: go hang a salam@ am a lasagna hog.
+result is :
+here is a broken one: go hang a salam@ am a lasagna hog.
+
+line 17
+
+line 18
+here is a broken one: go hang a salam@ am a lasagna hog.
+
+line 19
+
+line 21
+here is a broken one: go hang a salam@ am a lasagna hog.
+
+line 22
+here is a broken one: go hang a salam am a lasagna hog.
+
+here is a broken one: go hang a salam am a lasagna hog.
+line 2
+here is a broken one: go hang a salam@ am a lasagna hog.
+i.@ i
+
+line 9
+here is a broken one: go hang a salam@ am a lasagna hog.
+i.@ i
+
+line 10
+here is a broken one: go hang a salam@ am a lasagna hog.
+
+line 11
+here is a broken one: go hang a salam@ am a lasagna hog.
+i.@ i
+
+line 12 remove this :
+here is a broken one: go hang a salam@ am a lasagna hog.
+result is :
+here is a broken one: go hang a salam@ am a lasagna hog.
+
+line 17
+
+line 18
+here is a broken one: go hang a salam@ am a lasagna hog.
+
+line 19
+
+line 21
+here is a broken one: go hang a salam@ am a lasagna hog.
+
+line 22
+here is a broken one: go hang a salam am a lasagna hog.
+
+here is a broken one: go hang a salam am a lasagna hog.
+line 2
+here is a broken one: go hang a salam@ am a lasagna hog.
+i. @i
+
+line 9
+here is a broken one: go hang a salam@ am a lasagna hog.
+i. @i
+
+line 10
+here is a broken one: go hang a salam@ am a lasagna hog.
+
+line 11
+here is a broken one: go hang a salam@ am a lasagna hog.
+i. @i
+
+line 12 remove this :
+here is a broken one: go hang a salam@ am a lasagna hog.
+result is :
+here is a broken one: go hang a salam@ am a lasagna hog.
+
+line 17
+
+line 18
+here is a broken one: go hang a salam@ am a lasagna hog.
+
+line 19
+
+line 21
+here is a broken one: go hang a salam@ am a lasagna hog.
+
+line 22
+here is a broken one: go hang a salam am a lasagna hog.
+
+here is a broken one: go hang a salam am a lasagna hog.
+line 2
+here is a broken one: go hang a salami. i @ lasagna hog.
+am@ a
+
+line 9
+here is a broken one: go hang a salami. i @ lasagna hog.
+am@ a
+
+line 10
+here is a broken one: go hang a salami. i @ lasagna hog.
+
+line 11
+here is a broken one: go hang a salami. i @ lasagna hog.
+am@ a
+
+line 12 remove this :
+here is a broken one: go hang a salami. i @ lasagna hog.
+result is :
+here is a broken one: go hang a salami. i @ lasagna hog.
+
+line 17
+
+line 18
+here is a broken one: go hang a salami. i @ lasagna hog.
+
+line 19
+
+line 21
+here is a broken one: go hang a salami. i @ lasagna hog.
+
+line 22
+here is a broken one: go hang a salami. i  lasagna hog.
+
+here is a broken one: go hang a salami. i  lasagna hog.
+line 2
+here is a broken one: go hang a salami. i am @sagna hog.
+a l@a
+
+line 9
+here is a broken one: go hang a salami. i am @sagna hog.
+a l@a
+
+line 10
+here is a broken one: go hang a salami. i am @sagna hog.
+
+line 11
+here is a broken one: go hang a salami. i am @sagna hog.
+a l@a
+
+line 12 remove this :
+here is a broken one: go hang a salami. i am @sagna hog.
+result is :
+here is a broken one: go hang a salami. i am @sagna hog.
+
+line 17
+
+line 18
+here is a broken one: go hang a salami. i am @sagna hog.
+
+line 19
+
+line 21
+here is a broken one: go hang a salami. i am @sagna hog.
+
+line 22
+here is a broken one: go hang a salami. i am sagna hog.
+
+here is a broken one: go hang a salami. i am sagna hog.
+line 2
+here is a broken one: go hang a salami. i am a l@gna hog.
+as@a
+
+line 9
+here is a broken one: go hang a salami. i am a l@gna hog.
+as@a
+
+line 10
+here is a broken one: go hang a salami. i am a l@gna hog.
+
+line 11
+here is a broken one: go hang a salami. i am a l@gna hog.
+as@a
+
+line 12 remove this :
+here is a broken one: go hang a salami. i am a l@gna hog.
+result is :
+here is a broken one: go hang a salami. i am a l@gna hog.
+
+line 17
+
+line 18
+here is a broken one: go hang a salami. i am a l@gna hog.
+
+line 19
+
+line 21
+here is a broken one: go hang a salami. i am a l@gna hog.
+
+line 22
+here is a broken one: go hang a salami. i am a lgna hog.
+
+here is a broken one: go hang a salami. i am a lgna hog.
